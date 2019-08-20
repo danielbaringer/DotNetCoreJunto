@@ -1,0 +1,14 @@
+C:\Users\dbaringer\Downloads\dotnetCore\JuntoSeguros\API\coreApi\bin\Debug\netcoreapp2.2\coreApi.deps.json
+C:\Users\dbaringer\Downloads\dotnetCore\JuntoSeguros\API\coreApi\bin\Debug\netcoreapp2.2\coreApi.runtimeconfig.json
+C:\Users\dbaringer\Downloads\dotnetCore\JuntoSeguros\API\coreApi\bin\Debug\netcoreapp2.2\coreApi.runtimeconfig.dev.json
+C:\Users\dbaringer\Downloads\dotnetCore\JuntoSeguros\API\coreApi\bin\Debug\netcoreapp2.2\coreApi.dll
+C:\Users\dbaringer\Downloads\dotnetCore\JuntoSeguros\API\coreApi\bin\Debug\netcoreapp2.2\coreApi.pdb
+C:\Users\dbaringer\Downloads\dotnetCore\JuntoSeguros\API\coreApi\obj\Debug\netcoreapp2.2\coreApi.csprojAssemblyReference.cache
+C:\Users\dbaringer\Downloads\dotnetCore\JuntoSeguros\API\coreApi\obj\Debug\netcoreapp2.2\coreApi.csproj.CoreCompileInputs.cache
+C:\Users\dbaringer\Downloads\dotnetCore\JuntoSeguros\API\coreApi\obj\Debug\netcoreapp2.2\coreApi.RazorAssemblyInfo.cache
+C:\Users\dbaringer\Downloads\dotnetCore\JuntoSeguros\API\coreApi\obj\Debug\netcoreapp2.2\coreApi.RazorAssemblyInfo.cs
+C:\Users\dbaringer\Downloads\dotnetCore\JuntoSeguros\API\coreApi\obj\Debug\netcoreapp2.2\coreApi.AssemblyInfoInputs.cache
+C:\Users\dbaringer\Downloads\dotnetCore\JuntoSeguros\API\coreApi\obj\Debug\netcoreapp2.2\coreApi.AssemblyInfo.cs
+C:\Users\dbaringer\Downloads\dotnetCore\JuntoSeguros\API\coreApi\obj\Debug\netcoreapp2.2\coreApi.RazorTargetAssemblyInfo.cache
+C:\Users\dbaringer\Downloads\dotnetCore\JuntoSeguros\API\coreApi\obj\Debug\netcoreapp2.2\coreApi.dll
+C:\Users\dbaringer\Downloads\dotnetCore\JuntoSeguros\API\coreApi\obj\Debug\netcoreapp2.2\coreApi.pdb

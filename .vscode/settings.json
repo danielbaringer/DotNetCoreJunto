@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ef09448c-017c-45b9-a6a7-c858384bb2d2/resourceGroups/baringer/providers/Microsoft.Web/sites/baringerApi",
+    "appService.deploySubpath": "bin\\Debug\\netcoreapp2.2\\publish"
+}
